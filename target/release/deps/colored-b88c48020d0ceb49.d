@@ -1,0 +1,12 @@
+/home/ubuntu/pebbles-game/target/release/deps/libcolored-b88c48020d0ceb49.rmeta: /root/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/colored-2.1.0/src/lib.rs /root/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/colored-2.1.0/src/color.rs /root/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/colored-2.1.0/src/control.rs /root/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/colored-2.1.0/src/error.rs /root/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/colored-2.1.0/src/style.rs /root/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/colored-2.1.0/src/customcolors.rs
+
+/home/ubuntu/pebbles-game/target/release/deps/libcolored-b88c48020d0ceb49.rlib: /root/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/colored-2.1.0/src/lib.rs /root/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/colored-2.1.0/src/color.rs /root/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/colored-2.1.0/src/control.rs /root/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/colored-2.1.0/src/error.rs /root/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/colored-2.1.0/src/style.rs /root/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/colored-2.1.0/src/customcolors.rs
+
+/home/ubuntu/pebbles-game/target/release/deps/colored-b88c48020d0ceb49.d: /root/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/colored-2.1.0/src/lib.rs /root/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/colored-2.1.0/src/color.rs /root/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/colored-2.1.0/src/control.rs /root/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/colored-2.1.0/src/error.rs /root/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/colored-2.1.0/src/style.rs /root/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/colored-2.1.0/src/customcolors.rs
+
+/root/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/colored-2.1.0/src/lib.rs:
+/root/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/colored-2.1.0/src/color.rs:
+/root/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/colored-2.1.0/src/control.rs:
+/root/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/colored-2.1.0/src/error.rs:
+/root/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/colored-2.1.0/src/style.rs:
+/root/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/colored-2.1.0/src/customcolors.rs:

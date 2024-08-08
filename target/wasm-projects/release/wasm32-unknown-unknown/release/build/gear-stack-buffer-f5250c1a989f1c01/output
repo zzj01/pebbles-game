@@ -1,0 +1,2 @@
+cargo:rustc-link-lib=static=calloca
+cargo:rustc-link-search=native=/root/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/gear-stack-buffer-1.4.2/alloca

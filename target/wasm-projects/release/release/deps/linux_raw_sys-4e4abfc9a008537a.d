@@ -1,0 +1,11 @@
+/home/ubuntu/pebbles-game/target/wasm-projects/release/release/deps/liblinux_raw_sys-4e4abfc9a008537a.rmeta: /root/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/linux-raw-sys-0.4.14/src/lib.rs /root/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/linux-raw-sys-0.4.14/src/elf.rs /root/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/linux-raw-sys-0.4.14/src/x86_64/errno.rs /root/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/linux-raw-sys-0.4.14/src/x86_64/general.rs /root/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/linux-raw-sys-0.4.14/src/x86_64/ioctl.rs
+
+/home/ubuntu/pebbles-game/target/wasm-projects/release/release/deps/liblinux_raw_sys-4e4abfc9a008537a.rlib: /root/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/linux-raw-sys-0.4.14/src/lib.rs /root/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/linux-raw-sys-0.4.14/src/elf.rs /root/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/linux-raw-sys-0.4.14/src/x86_64/errno.rs /root/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/linux-raw-sys-0.4.14/src/x86_64/general.rs /root/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/linux-raw-sys-0.4.14/src/x86_64/ioctl.rs
+
+/home/ubuntu/pebbles-game/target/wasm-projects/release/release/deps/linux_raw_sys-4e4abfc9a008537a.d: /root/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/linux-raw-sys-0.4.14/src/lib.rs /root/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/linux-raw-sys-0.4.14/src/elf.rs /root/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/linux-raw-sys-0.4.14/src/x86_64/errno.rs /root/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/linux-raw-sys-0.4.14/src/x86_64/general.rs /root/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/linux-raw-sys-0.4.14/src/x86_64/ioctl.rs
+
+/root/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/linux-raw-sys-0.4.14/src/lib.rs:
+/root/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/linux-raw-sys-0.4.14/src/elf.rs:
+/root/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/linux-raw-sys-0.4.14/src/x86_64/errno.rs:
+/root/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/linux-raw-sys-0.4.14/src/x86_64/general.rs:
+/root/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/linux-raw-sys-0.4.14/src/x86_64/ioctl.rs:

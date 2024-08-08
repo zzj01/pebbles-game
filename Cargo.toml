@@ -1,0 +1,33 @@
+# 包的工作区配置
+[workspace.package]
+homepage = "https://wiki.gear-tech.io/docs/examples/prerequisites"
+authors = ["zzj <1115436871@qq.com>"]
+version = "0.1.0"
+license = "MIT"
+edition = "2021"
+publish = false
+
+# 包的配置
+[package]
+name = "pebbles-game"
+version.workspace = true
+edition.workspace = true
+publish.workspace = true
+
+# 依赖项配置
+[dependencies]
+gstd = "1.4.2"
+pebbles-game-io = { path = "io" }
+parity-scale-codec = { version = "3", default-features = false }
+scale-info = { version = "2", default-features = false }
+
+[build-dependencies]
+gear-wasm-builder = "1.4.2"
+pebbles-game-io = { path = "io" }
+
+[dev-dependencies]
+gtest = "1.4.2"
+gclient = "1.4.2"
+tokio = "1"
+xshell = "0.2"
+anyhow = "1"

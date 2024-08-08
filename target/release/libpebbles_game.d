@@ -1,0 +1,1 @@
+/home/ubuntu/pebbles-game/target/release/libpebbles_game.rlib: /home/ubuntu/pebbles-game/build.rs /home/ubuntu/pebbles-game/io/src/lib.rs /home/ubuntu/pebbles-game/src/lib.rs /home/ubuntu/pebbles-game/target/wasm-projects/release/wasm32-unknown-unknown/release/pebbles_game.stamp

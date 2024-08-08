@@ -1,0 +1,16 @@
+[package]
+# 包的配置信息
+name = "pebbles-game-io"           # 包的名称
+version = "0.1.0"                  # 包的版本
+edition = "2021"                   # Rust版本
+
+[dependencies]
+# 当前包的运行时依赖项
+gstd = "1.4.1"                     # Gear标准库版本
+gmeta = "1.4.1"                    # Gear元数据库版本
+parity-scale-codec = { version = "3", default-features = false }  # 编解码库版本
+scale-info = { version = "2", default-features = false }          # 类型信息库版本
+
+[dev-dependencies]
+# 当前包的开发依赖项
+gtest = "1.4.1"                    # Gear测试库版本
