@@ -1,1 +1,1 @@
-# pebbles-game
+# pebbles-game-gear-academy
