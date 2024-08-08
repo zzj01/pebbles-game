@@ -1,1 +1,0 @@
-cargo:rerun-if-changed=/home/ubuntu/pebbles-game/target/wasm-projects/release/wasm32-unknown-unknown/release/pebbles_game.stamp
