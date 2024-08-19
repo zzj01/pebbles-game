@@ -1,6 +1,6 @@
 # pebbles-game-gear-academy
 
-欢迎来到 Pebbles Game 仓库！本项目作为 Gear Rust 智能合约标准的一部分进行开发。
+欢迎来到 pebbles-game-gear-academy 仓库！本项目作为 Gear Rust 智能合约标准的一部分进行开发。
 
 ## 项目描述
 
